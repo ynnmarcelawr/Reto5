@@ -3,7 +3,7 @@ import java.awt.*;
 import view.VistaRequerimientosReto4;
 
 /**
- * Persistencia Proyectos Construcción
+ * Persistencia Proyetos Construcción
  *
  */
 public class App {
